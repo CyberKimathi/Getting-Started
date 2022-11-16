@@ -8,7 +8,7 @@
 	* [Installing Kali Linux](#installing-kali-linux)
 	* [Learning how to use the terminal](#learning-how-to-use-the-terminal)
 	* [Learning how to program in python](#learning-how-to-program-in-python)
-	* [Learning git/github](#learning-git/github)
+	* [Learning git/github](#learning-git-github)
 * [Cybersecurity Categories](#cybersecurity-categories)
 	* [Choosing a programming language depending on the cybersecurity category to pursue](#choosing-another-programming-language-depending-on-the-cybersecurity-category-to-pursue)
 	* [Learning Another Programming Language](#learning-another-programming-language)
@@ -83,7 +83,7 @@ Choose one from the below methods of installing kali linux
 - Python guide:<br>
 	🐧: [Python Tutorial - Python for Beginners [Full Course]](https://www.youtube.com/watch?v=_uQrJ0TkZlc)<br>
 
-### Learning git/github
+### Learning git github
 - Git guide:<br>
 	🐧: [Git and GitHub for Beginners - Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk)<br>
 	🐧: [Git Tutorial for Beginners: Learn Git in 1 Hour](https://www.youtube.com/watch?v=8JJ101D3knE)<br>
@@ -273,3 +273,4 @@ Contributions are encouraged
 	* [github](https://github.com/MarkTanui)
 
 
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCyberKimathi%2FGetting-Started&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
