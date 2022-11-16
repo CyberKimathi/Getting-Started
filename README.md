@@ -2,14 +2,6 @@
 > ***See your self in CYBER.***
 
 
-# Cyber Security Club of Kimathi
-- Welcome to the Cyber Security Club of Kimathi.
-- We have curated a guide  to help you get started.
-- Hoping this will be of great help
-
-
-<br/>
-
 # Catalog
 * [Things to Know before starting a journey in cybersecurity](#things-to-know-before-starting-a-journey-in-cybersecurity)
 * [Things to learn First](#things-to-learn)
