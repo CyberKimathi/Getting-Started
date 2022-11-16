@@ -15,7 +15,7 @@ Personal-Notes
 * [Samba procedures](#samba)
 * [Forensics procedures](#forensics)
 * [After Initial Access procedures](#after-gaining-access)
-* [Author](#author)
+* [Author - About Me ](#author)
 
 
 ### Windows
@@ -162,5 +162,5 @@ host -l <Domain Name> <DNS Server>  Domain Zone Transfer
 ### Author
 * `Links`
 	* [My Github](https://github.com/allannjuguna)
-	* [My Twitter](https://github.com/xubzer0)
+	* [My Twitter](https://twitter.com/xubzer0)
 	* [My Blog](https://allannjuguna.github.io)
