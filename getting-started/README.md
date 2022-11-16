@@ -3,7 +3,7 @@
 
 
 # Catalog
-* [Challenge 1](#challenge-1)
+* [Things to Know before starting a journey in cybersecurity](#things-to-know-before-starting-a-journey-in-cybersecurity)
 * [Challenge 2](#challenge-2)
 * [Challenge 3](#challenge-3)
 * [Challenge 4](#challenge-4)
@@ -16,18 +16,18 @@
 1.Cybersecurity is **NOT** easy(might be simple, but never easy).
 
 2.Cybersecurity requires:
-* 	Persistence
-* 	Patience
-* 	Dedication
-* 	Lots of reading and researching
-* 	Lots of practice
-* 	Eagerness to dig into technical questions and examine them from all sides.
-* 	Enthusiasm and a high degree of adaptability.
-* 	An understanding of how systems work.
+* Persistence
+* Patience
+* Dedication
+* Lots of reading and researching
+* Lots of practice
+* Eagerness to dig into technical questions and examine them from all sides.
+* Enthusiasm and a high degree of adaptability.
+* An understanding of how systems work.
 
 3.The following skills are essential as far as cybersecurity training is concerned:
 
-Basic knowledge of operating systems: Since you will work with various operating systems, understanding architecture, and use of operating systems is paramount.
+* Basic knowledge of operating systems: Since you will work with various operating systems, understanding architecture, and use of operating systems is paramount.
 
 Knowledge of programming: Understanding programming languages including C/C++, Java or other scripting languages like Python and PHP gives you an added edge over the other security professionals.
     
