@@ -11,9 +11,22 @@
 	* [Learning git/github](#learning-git/github)
 * [Cybersecurity Categories](#cybersecurity-categories)
 	* [Choosing a programming language depending on the cybersecurity category to pursue](#choosing-another-programming-language-depending-on-the-cybersecurity-category-to-pursue)
-* [Challenge 5](#challenge-5)
-* [Challenge 6](#challenge-6)
+	* [Learning Another Programming Language](#learning-another-programming-language)
+* [Learning Hacking using CTFS](#ctfs)
+	* [Jeopardy style ctfs](#jeopard-style-ctf)
+	* [Boot2root style ctfs](#boot2root-style-ctfs)
+	* [Resources and Sites](#resources-and-sites)
+* [Courses](#courses)
+* [Bug Bounty](#bug-bounty)
+* [Cybersecurity News](#news-sites)
+* [Videos we Recommend](#recommended-videos)
+* [Youtube channels to follow](#youtube-channels-to-follow)
+* [Sites to visit when stuck](#sites-to-visit-when-stuck)
 * [Summary](#challenge-6)
+
+<br/>
+<br/>
+
 
 ## Things to Know before starting a journey in cybersecurity
 
@@ -76,7 +89,7 @@ Choose one from the below methods of installing kali linux
 	🐧: [Git Tutorial for Beginners: Learn Git in 1 Hour](https://www.youtube.com/watch?v=8JJ101D3knE)<br>
 
 
-### Cybersecurity Categories
+## Cybersecurity Categories
 With time, you will need to pick an area in cybersecurity to specialize in. Below are some of the most common categories in cybersecurity that one may choose from
 ```
 Binary exploitation
@@ -93,66 +106,71 @@ Hardware Hacking
 
 ### Choosing another programming language depending on the cybersecurity category to pursue
 ```
-- Binary exploitation - python,c,c++,assembly
-- Reverse engineering - python,c,c++,java,assembly etc
-- Web exploitation - python,php,javascript,mysql,html,css
-- Cryptography - python
-- Network Security - python
-- Forensics(Disk,memory,etc)  - python
-- Steganography - python
+Binary exploitation - python,c,c++,assembly
+Reverse engineering - python,c,c++,java,assembly etc
+Web exploitation - python,php,javascript,mysql,html,css
+Cryptography - python
+Network Security - python
+Forensics(Disk,memory,etc)  - python
+Steganography - python
 ```
 
-### Stuck?
-```
-*     google.com - find solutions to problems you may encounter here
-*     stackoverflow.com - find solutions to problems you may encounter here
-*     youtube.com - find solutions to problems you may encounter here
-*     github.com(optional) - Follow other people's work and research
-*     twitter.com(optional) - Follow other people's work and research
-*     cybrary.it - free and paid courses
-*     tryhackme.com - TryHackMe is a free online platform for learning cyber security, 
-*     using hands-on exercises and labs, all through your browser!
-*     securitytube.net
-*
-```
+### Learning another Programming Language
+- [Learning python](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
+- [Learning C++](https://www.youtube.com/watch?v=vLnPwxZdW4Y)
+- [Learning Java](https://www.youtube.com/watch?v=eIrMbAQSU34)
+- [Learning Javascript](https://www.youtube.com/watch?v=W6NZfCO5SIk)
+- [Object Oriented Javascript](https://www.youtube.com/watch?v=PFmuCDHHpwk)
+- [Learning php](www.youtube.com/watch?v=OK_JCtrrv-c)
+- [Learning html](https://www.youtube.com/watch?v=qz0aGYrrlhU)
 
 
-### Reverse enginnering resources and sites
-- [begin.re](https://www.begin.re)
-- [opensecuritytraining.info](https://opensecuritytraining.info/Training.html)
-- [overthewire.org](https://overthewire.org/wargames/)
-- [root-me.org](https://www.root-me.org/?lang=en)
-- [wechall.net](http://www.wechall.net/)
-- [pwnable.kr](http://pwnable.kr/)
 
-### Top Sites
-- [begin.re](https://www.begin.re)
-- [contained.af](https://www.contained.af)
-- [cryptohack.org](https://www.cryptohack.org)
-- [0x00sec.org](https://www.0x00sec.org)
-- [chall.stypr.com](https://www.chall.stypr.com)
-- [tryhackme.com](https://www.tryhackme.com)
-- [hackxor.net](https://www.hackxor.net)
+## CTFs
+Capture the Flag (CTF) in computer security is an exercise in which "flags" are secretly hidden in purposefully-vulnerable programs or websites. It can either be for competitive or educational purposes.
+
+The best way to learn how to hack is to do it. There are several practice sites and capture-the-flag exercises to teach you how to break security.
+
+### Jeopard style ctfs
+- [picoctf.org](https://www.picoctf.org)
 - [ctftime.org](https://www.ctftime.org)
 - [ctflearn.com](https://www.ctflearn.com)
-- [picoctf.org](https://www.picoctf.org)
-- [OWASP WebGoat Project](https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project)
-- [OWASP Juice Shop Project](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project)
-- [Vulnhub](https://www.vulnhub.com)
-- [bWAAP](http://www.itsecgames.com)
-- [Metasploitable 2](https://metasploit.help.rapid7.com/docs/metasploitable-2)
-- [HackTheBox](https://www.hackthebox.eu)
-- [AttackDefence](https://attackdefense.com)
+- [tryhackme.com](https://www.tryhackme.com)
+- [overthewire.org](https://overthewire.org/wargames/)
+- [contained.af](https://www.contained.af)
+- [cryptohack.org](https://www.cryptohack.org)
+- [begin.re](https://www.begin.re)
+- [0x00sec.org](https://www.0x00sec.org)
+- [chall.stypr.com](https://www.chall.stypr.com)
 - [HackThisSite](https://www.hackthissite.org)
-- [Rootme](https://www.root-me.org/?lang=en)
+- [hackxor.net](https://www.hackxor.net)
 - [Enigmagroup Challenges](https://www.enigmagroup.org/pages/challenges)
 - [Natas](http://overthewire.org/wargames/natas/)
 - [HackMe](https://hack.me/explore/)
 - [Hellbound hackers](https://www.hellboundhackers.org/)
 - [Security Idiots](http://www.securityidiots.com/)
+- [opensecuritytraining.info](https://opensecuritytraining.info/Training.html)
+- [pwnable.kr](http://pwnable.kr/)
+- [wechall.net](http://www.wechall.net/)
+
+### Boot2root/Box style ctfs
+- [tryhackme.com](https://www.tryhackme.com)
+- [HackTheBox](https://www.hackthebox.eu)
+- [Vulnhub](https://www.vulnhub.com)
+- [Offensive Security Proving Grounds](https://portal.offensive-security.com/labs/play)
+- [AttackDefense](https://attackdefense.com)
+- [OWASP WebGoat Project](https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project)
+- [OWASP Juice Shop Project](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project)
+- [bWAAP](http://www.itsecgames.com)
+- [Metasploitable 2](https://metasploit.help.rapid7.com/docs/metasploitable-2)
+- [Rootme](https://www.root-me.org/?lang=en)
+
+### Resources and Sites
+* [Practice hacking with vulnerable systems](https://www.sjoerdlangkemper.nl/2018/12/19/practice-hacking-with-vulnerable-systems/)
+* [Awesome-ctf](https://github.com/apsdehal/awesome-ctf)
 
 
-## Bug Bounty Talks
+## Bug Bounty
 - Bug Bounty Field Manual (Adam Bacchus) = https://www.youtube.com/watch?v=aNyK1yVLLRI
 - Tales of a Bug Bounty Hunter (Arne Swinnen)  https://www.youtube.com/watch?v=Ehq6ofUbslI
 - Doing Recon Like a Boss (Ben Sadeghipour) : https://www.youtube.com/watch?v=1Kg0_53ZEq8
@@ -167,9 +185,8 @@ Hardware Hacking
 - Hunting for Top Bounties (Nicolas Grégoire) = https://www.youtube.com/watch?v=mQjTgDuLsp4
 
 
-## Free Course
+## Courses
 ### Zero to Hero:
-
 - Episode 1: Course Introduction, Notekeeping, Introductory Linux, and AMA https://youtu.be/qlK174d_uu8
 - Episode 2: Python 101 and AMA https://youtu.be/egg-GoT5iVk
 - Episode 3: Python 102, Building a Shitty Port Scanner, Giveaway, and AMA https://youtu.be/3GriwyvJzio
@@ -182,14 +199,14 @@ Hardware Hacking
 - Episode 10: MS17-010/EternalBlue, GPP/cPasswords, and Kerberoasting https://youtu.be/6rZddmB0fug
 - Episode 11: File Transfers, Pivoting, and Report Writing https://youtu.be/MxjIDoGsGCQ
 
-## Paid Courses
+### Paid Courses
 - SANS = https://www.sans.org/courses
 - Offensive Security = https://www.offensive-security.com/information-security-certifications/ 
 - ElearnSecurity = https://www.elearnsecurity.com/course/
 - Pentester Academy = https://www.pentesteracademy.com/topics
 - Hakin9 = https://hakin9.org/online-courses-2/
 
-### News Sites
+## News Sites
 - The Hacker News = https://thehackernews.com
 - HackRead = https://www.hackread.com
 - Naked Security = https://nakedsecurity.sophos.com
@@ -198,83 +215,62 @@ Hardware Hacking
 - Threat Post = https://threatpost.com
 - Dark Reading = https://www.darkreading.com
 
-### CTFs
-Solve capture the flag challenges here to gain some skills and experience.You can use any of these websites
-(https://www.sjoerdlangkemper.nl/2018/12/19/practice-hacking-with-vulnerable-systems/)
-```
-bWAPP - Download this virtual machine for local practice
-Cryptopals - Cryptographic programming challenges
-CTF Challenge
-CTF365
-CTFlearn
-CTFTime
-Enigma Group
-Game of Hacks
-zer0ctf.com 
-play.picoctf.org 
-overthewire.com 
-pentester academy or (securitytube)
-```
 
 
 
-### Videos I recommend
 
+## Recommended Videos
 - [Why cybersecurity is hard](https://www.youtube.com/watch?v=vI79qT4lcfA)
-
 - [How To Learn Hacking With CTFs](https://www.youtube.com/watch?v=Lus7aNf2xDg)
 
-- [Learning python](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
-
-- [Learning C++](https://www.youtube.com/watch?v=vLnPwxZdW4Y)
-
-- [Learning Java](https://www.youtube.com/watch?v=eIrMbAQSU34)
-
-- [Learning Javascript](https://www.youtube.com/watch?v=W6NZfCO5SIk)
-	
-- [Object Oriented Javascript](https://www.youtube.com/watch?v=PFmuCDHHpwk)
-
-- [Learning php](www.youtube.com/watch?v=OK_JCtrrv-c)
-
-- [Learning html](https://www.youtube.com/watch?v=qz0aGYrrlhU)
 
 
-### Youtube channels to follow
-```
-liveoverflow
-ippSec
-Hackersploit
-STÖK
-InsiderPhd
-NeuralNine
-NullByte
-John Hammond
-Reconless
-HackHappy
-Hacksplained
-Computerphile
-Hak5
-MalwareTech
-ghidraninja
-OAlabs
-pwnfunction
-networkchuck
-david bombal
-```
+## Youtube channels to follow
+* ippSec
+* liveoverflow
+* Hackersploit
+* STÖK
+* InsiderPhd
+* NeuralNine
+* NullByte
+* John Hammond
+* Reconless
+* HackHappy
+* Hacksplained
+* Computerphile
+* Hak5
+* MalwareTech
+* ghidraninja
+* OAlabs
+* pwnfunction
+* networkchuck
+* david bombal
+* More channels will be added
+
+
+### sites to visit when stuck
+* google.com - find solutions to problems you may encounter here
+* stackoverflow.com - find solutions to problems you may encounter here
+* youtube.com - find solutions to problems you may encounter here
+* github.com(optional) - Follow other people's work and research
+* twitter.com(optional) - Follow other people's work and research
+* stackexchange
+
+
 
 ### Note:
 ```
-Incase of any questions or issues,consult me or any official.
+Incase of any questions or issues,errors,consult me or any official.
 Contributions are encouraged
 ```
-Contributors:
 
-xubzero
-- [twitter](https://twitter.com/xubzer0)
-- [github](https://github.com/xubzero)
+## Contributors:
+* allannjuguna
+	* [twitter](https://twitter.com/xubzer0)
+	* [github](https://github.com/allannjuguna)
 
-themadbit
-- [twitter](https://twitter.com/themadbit)
-- [github](https://github.com/MarkTanui)
+* themadbit
+	* [twitter](https://twitter.com/themadbit)
+	* [github](https://github.com/MarkTanui)
 
-GOOD LUCK!!
+
