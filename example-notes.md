@@ -29,7 +29,7 @@ git init
 git add *
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/xubzero/demo.git
+git remote add origin https://github.com/hackername/demo.git
 git push -u origin main
 ```
 
@@ -43,12 +43,12 @@ create a new repository on the command line
     git add README.md
     git commit -m "first commit"
     git branch -M main
-    git remote add origin https://github.com/xubzero/demo.git
+    git remote add origin https://github.com/hackername/demo.git
     git push -u origin main
 
 push an existing repository from the command line
 
-    git remote add origin https://github.com/xubzero/demo.git
+    git remote add origin https://github.com/hackername/demo.git
     git branch -M main
     git push -u origin main
 ```
@@ -60,7 +60,7 @@ git init
 git add README.md
 git commit -m 'first commit'
 git remote - Checks for remote repositories
-git remote add origin https://github.com/xubzero/sample.git
+git remote add origin https://github.com/hackername/sample.git
 git push -u origin main/master
 git remote remove unwantedremote
 git push
