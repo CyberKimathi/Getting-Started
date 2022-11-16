@@ -160,7 +160,7 @@ The best way to learn how to hack is to do it. There are several practice sites 
 - [pwnable.kr](http://pwnable.kr/)
 - [wechall.net](http://www.wechall.net/)
 
-### Boot2root/Box style ctfs
+### Boot2root style ctfs
 - [tryhackme.com](https://www.tryhackme.com)
 - [HackTheBox](https://www.hackthebox.eu)
 - [Vulnhub](https://www.vulnhub.com)
