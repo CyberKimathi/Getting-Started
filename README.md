@@ -88,6 +88,7 @@ Choose one from the below methods of installing kali linux
 ### Learning how to program in python
 - Python guide:<br>
 	🐧: [Python Tutorial - Python for Beginners [Full Course]](https://www.youtube.com/watch?v=_uQrJ0TkZlc)<br>
+	🐧: [Python Tutorial - Python for Pentesters [Full Course]](https://www.pentesteracademy.com/course?id=1)<br>
 
 ### Learning git github
 - Git guide:<br>
