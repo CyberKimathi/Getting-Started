@@ -1,6 +1,16 @@
 # CYBER SECURITY CLUB OF KIMATHI
 > ***See your self in CYBER.***
 
+
+# Catalog
+* [Challenge 1](#challenge-1)
+* [Challenge 2](#challenge-2)
+* [Challenge 3](#challenge-3)
+* [Challenge 4](#challenge-4)
+* [Challenge 5](#challenge-5)
+* [Challenge 6](#challenge-6)
+* [Summary](#challenge-6)
+
 ## Things to Know before starting a journey in cybersecurity
 
 1.Cybersecurity is **NOT** easy(might be simple, but never easy).
