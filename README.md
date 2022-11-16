@@ -194,7 +194,7 @@ The best way to learn how to hack is to do it. There are several practice sites 
 ## Courses
 #### Tryhackme Paths
 
-🦚 #### Level 1 - Intro
+🦚 Level 1 - Intro
 
 - [ ] OpenVPN https://tryhackme.com/room/openvpn
 - [ ] Welcome https://tryhackme.com/jr/welcome
@@ -206,7 +206,7 @@ Introductory CTFs to get your feet wet
 - [ ] OHsint https://tryhackme.com/room/ohsint
 - [ ] Shodan.io https://tryhackme.com/room/shodan
 
-🦚 #### Level 2 - Tooling
+🦚 Level 2 - Tooling
 
 - [ ] Tmux https://tryhackme.com/room/rptmux
 - [ ] Nmap https://tryhackme.com/room/rpnmap
@@ -222,7 +222,7 @@ More introductory CTFs
 - [ ] Simple CTF https://tryhackme.com/room/easyctf
 - [ ] Bounty Hacker https://tryhackme.com/room/cowboyhacker
 
-🦚 #### Level 3 - Crypto & Hashes with CTF practice
+🦚 Level 3 - Crypto & Hashes with CTF practice
 
 - [ ] Crack the hash https://tryhackme.com/room/crackthehash
 - [ ] Agent Sudo https://tryhackme.com/room/agentsudoctf
@@ -231,7 +231,7 @@ More introductory CTFs
 - [ ] Lazy Admin https://tryhackme.com/room/lazyadmin
 - [ ] Basic Pentesting https://tryhackme.com/room/basicpentestingjt
 
-🦚 #### Level 4 - Web
+🦚 Level 4 - Web
 
 - [ ] OWASP top 10 https://tryhackme.com/room/owasptop10
 - [ ] Inclusion https://tryhackme.com/room/inclusion
@@ -246,7 +246,7 @@ More introductory CTFs
 - [ ] Jack of all trades https://tryhackme.com/room/jackofalltrades
 - [ ] Bolt https://tryhackme.com/room/bolt
 
-🦚 #### Level 5 - Reverse Engineering
+🦚 Level 5 - Reverse Engineering
 
 - [ ] Intro to x86 64 https://tryhackme.com/room/introtox8664
 - [ ] CC Ghidra https://tryhackme.com/room/ccghidra
@@ -256,7 +256,7 @@ More introductory CTFs
 - [ ] Reversing ELF https://tryhackme.com/room/reverselfiles
 - [ ] Dumping Router Firmware https://tryhackme.com/room/rfirmware
 
-🦚 #### Level 6 - PrivEsc
+🦚 Level 6 - PrivEsc
 
 - [ ] Sudo Security Bypass https://tryhackme.com/room/sudovulnsbypass
 - [ ] Sudo Buffer Overflow https://tryhackme.com/room/sudovulnsbof
@@ -269,7 +269,7 @@ More introductory CTFs
 - [ ] Capture the flag https://tryhackme.com/room/c4ptur3th3fl4g
 - [ ] Pickle Rick https://tryhackme.com/room/picklerick
 
-🦚 #### Level 7 - CTF practice
+🦚 Level 7 - CTF practice
 
 - [ ] Post Exploitation Basics https://tryhackme.com/room/postexploit
 - [ ] Smag Grotto https://tryhackme.com/room/smaggrotto
