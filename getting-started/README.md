@@ -4,9 +4,13 @@
 
 # Catalog
 * [Things to Know before starting a journey in cybersecurity](#things-to-know-before-starting-a-journey-in-cybersecurity)
-* [Challenge 2](#challenge-2)
-* [Challenge 3](#challenge-3)
-* [Challenge 4](#challenge-4)
+* [Things to learn First](#things-to-learn)
+	* [Installing Kali Linux](#installing-kali-linux)
+	* [Learning how to use the terminal](#learning-how-to-use-the-terminal)
+	* [Learning how to program in python](#learning-how-to-program-in-python)
+	* [Learning git/github](#learning-git/github)
+* [Cybersecurity Categories](#cybersecurity-categories)
+	* [Choosing a programming language depending on the cybersecurity category to pursue](#choosing-another-programming-language-depending-on-the-cybersecurity-category-to-pursue)
 * [Challenge 5](#challenge-5)
 * [Challenge 6](#challenge-6)
 * [Summary](#challenge-6)
@@ -29,18 +33,19 @@
 
 * Basic knowledge of operating systems: Since you will work with various operating systems, understanding architecture, and use of operating systems is paramount.
 
-Knowledge of programming: Understanding programming languages including C/C++, Java or other scripting languages like Python and PHP gives you an added edge over the other security professionals.
+* Knowledge of programming: Understanding programming languages including C/C++, Java or other scripting languages like Python and PHP gives you an added edge over the other security professionals.
     
-Computer networking basics: Understanding network protocols such as IP Addressing, subnetting, and how they work will help you in natural learning of cybersecurity.
+* Computer networking basics: Understanding network protocols such as IP Addressing, subnetting, and how they work will help you in natural learning of cybersecurity.
     
-Web application technologies: A sound exposure in these applications and how they work will be a great asset in helping you learn cybersecurity.
+* Web application technologies: A sound exposure in these applications and how they work will be a great asset in helping you learn cybersecurity.
 
 
 
-## Things to learn:
-### Installing kali linux(Choose one)
-	
+## Things to learn
+CyberSecurity will require one to interact with various operating systems. The most recommended operating system recommended while working in cybersecurity is Linux. This is because Linux is open-source (free) and many cybersecurity tools are build for the linux operating system. There are many linux distributions for cybersecurity enthusiasts, but here we will choose Kali Linux since it is the most popular one
 
+### Installing kali linux
+Choose one from the below methods of installing kali linux 
 - Creating a bootable flash disk(Installing kali linux in flashdisk)(Beginners)<br>
 	🐧: [How To Install Kali Linux On A Flash Drive - 2020 (2021 Update In Description)](https://www.youtube.com/watch?v=BsuJvMkH-eE)<br>
 	🐧: [How To Install Kali Linux on USB Flash Drive | Full Guide](https://www.youtube.com/watch?v=IEAMopVfw30)<br>
@@ -55,7 +60,7 @@ Web application technologies: A sound exposure in these applications and how the
 - Installing kali linux as the main operating system(for advanced users)<br>
 
 
-### Learning how to use the terminal(choose either)
+### Learning how to use the terminal
 
 - Command line guides:<br>
 	🐧: [Command Line Crash Course](https://www.youtube.com/watch?v=yz7nYlnXLfE)<br>
@@ -65,26 +70,28 @@ Web application technologies: A sound exposure in these applications and how the
 - Python guide:<br>
 	🐧: [Python Tutorial - Python for Beginners [Full Course]](https://www.youtube.com/watch?v=_uQrJ0TkZlc)<br>
 
-### Learning git/github(OPTIONAL)
+### Learning git/github
 - Git guide:<br>
 	🐧: [Git and GitHub for Beginners - Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk)<br>
 	🐧: [Git Tutorial for Beginners: Learn Git in 1 Hour](https://www.youtube.com/watch?v=8JJ101D3knE)<br>
 
 
 ### Cybersecurity Categories
+With time, you will need to pick an area in cybersecurity to specialize in. Below are some of the most common categories in cybersecurity that one may choose from
+```
+Binary exploitation
+Reverse engineering
+Web exploitation
+Cryptography/Digital security
+Network and cloud Security
+Forensics 
+Steganography
+Red Teaming(Active Directory etc.)
+Hardware Hacking
+```
 - [Cybersecurity categories in detail](https://www.youtube.com/watch?v=vI79qT4lcfA)
-```
-- Binary exploitation
-- Reverse engineering
-- Web exploitation
-- Cryptography/Digital security
-- Network and cloud Security
-- Forensics 
-- Steganography
-- Red Teaming(Active Directory etc.)
-```
 
-### Choosing another programming language depending on the cybersecurity category to pursue(optional)
+### Choosing another programming language depending on the cybersecurity category to pursue
 ```
 - Binary exploitation - python,c,c++,assembly
 - Reverse engineering - python,c,c++,java,assembly etc
@@ -106,7 +113,7 @@ Web application technologies: A sound exposure in these applications and how the
 *     tryhackme.com - TryHackMe is a free online platform for learning cyber security, 
 *     using hands-on exercises and labs, all through your browser!
 *     securitytube.net
-* 	.......
+*
 ```
 
 
