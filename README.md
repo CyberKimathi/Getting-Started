@@ -61,7 +61,7 @@
 
 
 ## Things to learn
-CyberSecurity will require one to interact with various operating systems. The most recommended operating system recommended while working in cybersecurity is Linux. This is because Linux is open-source (free) and many cybersecurity tools are build for the linux operating system. There are many linux distributions for cybersecurity enthusiasts, but here we will choose Kali Linux since it is the most popular one
+CyberSecurity will require one to interact with various operating systems. The most recommended operating system while working in cybersecurity is Linux. This is because Linux is open-source (free) and many cybersecurity tools are build for the linux operating system. There are many linux distributions for cybersecurity enthusiasts, but here we will choose Kali Linux since it is the most popular one
 
 ### Installing kali linux
 Choose one from the below methods of installing kali linux 

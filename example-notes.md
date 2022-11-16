@@ -6,7 +6,7 @@ Personal-Notes
 ## Catalog
 * [Git and Github](#git-and-github)
 * [Windows](#windows)
-* [CTF-tips](#tips-and-tricks)
+* [CTF-tips](#hack-the-box-tips-and-tricks)
 * [Operating procedures](#operating-procedures)
 * [HTTP procedures](#http)
 * [Ssh procedures](#ssh)
@@ -96,7 +96,7 @@ Personal-Notes
 	.gitignore file - Add the name of the file in this file and that file will be ignore during commits (e.g log files)
 	```
 
-### Hack the Box -  Tips and Tricks
+### Hack the Box Tips and Tricks
 * `tips`
     * Enumeration is Key
     * Be Organized and Document Everything
