@@ -192,7 +192,7 @@ The best way to learn how to hack is to do it. There are several practice sites 
 
 
 ## Courses
-#### Tryhackme Paths
+### Tryhackme Paths
 
 🦚 Level 1 - Intro
 
@@ -293,6 +293,9 @@ More introductory CTFs
 - Episode 9: NTLM Relay, Token Impersonation, Pass the Hash, PsExec, and more https://www.youtube.com/watch?v=QvMeLoyS944
 - Episode 10: MS17-010/EternalBlue, GPP/cPasswords, and Kerberoasting https://youtu.be/6rZddmB0fug
 - Episode 11: File Transfers, Pivoting, and Report Writing https://youtu.be/MxjIDoGsGCQ
+
+### Pentester Academy (2000+ courses)
+- [Pentester Academy](https://www.pentesteracademy.com/topics)
 
 ### Paid Courses
 - SANS = https://www.sans.org/courses
