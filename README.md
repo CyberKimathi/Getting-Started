@@ -1,5 +1,9 @@
 # CYBER SECURITY CLUB OF KIMATHI
-> ***See your self in CYBER.***
+<p align="center">
+	<a href="#"><img src="./images/logo.png"></a><br>
+	<samp>See your self in CYBER.</samp>
+</p>
+
 
 
 # Catalog
@@ -23,7 +27,7 @@
 * [Videos we Recommend](#recommended-videos)
 * [Youtube channels to follow](#youtube-channels-to-follow)
 * [Sites to visit when stuck](#sites-to-visit-when-stuck)
-* [Summary](#challenge-6)
+* [Summary](#summary)
 
 <br/>
 <br/>
